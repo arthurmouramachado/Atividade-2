@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Lista de Exercícios POO - Versão Orientada a Objetos
 """
