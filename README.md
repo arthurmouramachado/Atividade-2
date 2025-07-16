@@ -81,20 +81,6 @@ python main.py
 
 ---
 
-## Versionamento com Git
-
-O projeto é versionado com Git. Foram feitos commits frequentes com mensagens descritivas a cada etapa:
-
-```bash
-git init
-git add .
-git commit -m "Adiciona classes dos exercícios com estrutura POO"
-git commit -m "Implementa menu principal com execução interativa"
-git commit -m "Cria README.md com detalhes e instruções do projeto"
-```
-
----
-
 ## Autor
 
 **Nome:** Arthur Moura Machado  
